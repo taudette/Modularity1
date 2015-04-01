@@ -1,0 +1,109 @@
+/*IS GIT WORKING
+*/
+
+/* ADD YOUR STYLES HERE */
+ body{
+ 	background-color: #FCF3D1;
+ 	font-family:  georgia, serif, arial;
+ 	font-weight: 100;
+ 	
+ }
+
+ 	
+
+.instructions-container{
+
+	width:90%;
+	margin: 0 auto;
+	
+
+}
+
+td{
+	padding:.4em;
+ 	border-bottom: dashed 1px grey;
+ 	color:darkred;
+ 	text-align: center;
+
+
+	
+}
+
+table{
+	width:95%;
+}
+
+tr:last-child td{
+	border-bottom: none;
+
+}
+
+th{
+	padding: .5em;
+	text-align: center;
+
+}
+
+.numbers{
+	font-size: 4em;
+}
+.stats{padding:.4em;
+ 	border-bottom: dashed 1px grey;
+ 	border-top: dashed 1px grey;
+
+}
+
+.percents{
+color:darkred;
+background-color: lightgrey;
+}
+
+.inside{
+
+	background-color: white;
+	padding: 1em;
+	margin:5em;
+	/*border: solid grey 3px;*/
+	width:70%;
+	height: 70%;
+	position: relative;
+	border: 2px none;
+	border-radius: 25px;
+
+	
+
+}
+
+.outside{
+	background-color: grey;
+	height:200%;
+	margin: 20px;
+	padding: 20px;
+	border: 2px none;
+	border-radius: 15px;
+
+}
+
+.photo {
+	float:left;
+	overflow: hidden;
+	padding-right:.6em;
+	padding-top: -.2em;
+	position: relative;
+
+}
+
+
+.bottom-2{
+	padding-left: 5em;
+	
+}
+
+td{
+	padding:.4em;
+ 	border-bottom: dashed 1px grey;
+ 	color:darkred;
+ 	text-align: center;
+
+
+
